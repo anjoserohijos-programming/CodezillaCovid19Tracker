@@ -13,7 +13,6 @@ import java.security.KeyStore
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
-    // https://www.youtube.com/watch?v=9LYn-OBO5qE 29:14
     private lateinit var editFullName: EditText
     private lateinit var editHomeAddress: EditText
     private lateinit var btnSubmit: Button
